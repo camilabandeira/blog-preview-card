@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png" />
+  <link href="./dist/output.css" rel="stylesheet" />
+  <title>Frontend Mentor | Blog preview card</title>
+</head>
+
+<body class="bg-body m-0 min-h-screen flex flex-col font-sans p-4">
+  <div class="flex-grow flex items-center justify-center">
+    <main class="relative w-[375px] max-h-[90vh]">
+      <div class="absolute top-2 left-2 w-full h-full bg-black rounded-xl z-0"></div>
+
+      <section
+        class="relative z-10 flex flex-col justify-center gap-2 bg-white w-full h-full rounded-xl border border-black p-4 overflow-hidden">
+        <img src="/assets/images/illustration-article.svg" alt="Article illustration" class="rounded-xl" />
+
+        <div
+          class="text-xs font-bold bg-body rounded-md w-16 p-1 text-center hover:cursor-pointer hover:scale-105 focus:outline-none focus:ring-2 focus:ring-black transition">
+          Learning
+        </div>
+
+        <h4 class="text-xs text-gray-600">Published 21 Dec 2023</h4>
+
+        <h2
+          class="text-lg font-bold text-gray-950 hover:cursor-pointer hover:scale-105 focus:outline-none focus:ring-2 focus:ring-black transition-colors duration-200 active:text-body">
+          HTML & CSS foundations
+        </h2>
+
+        <p class="text-gray-600 text-sm pb-3">
+          These languages are the backbone of every website, defining structure, content, and presentation.
+        </p>
+
+        <div class="flex items-center gap-2">
+          <img src="/assets/images/image-avatar.webp" alt="Greg Hooper" class="w-8 h-8 rounded-full" />
+          <p
+            class="font-bold text-xs hover:cursor-pointer hover:scale-105 focus:outline-none focus:ring-2 focus:ring-black transition">
+            Greg Hooper
+          </p>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+
+</html>
