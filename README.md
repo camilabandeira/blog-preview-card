@@ -10,8 +10,7 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 ![Blog Preview Card - Desktop](https://github.com/user-attachments/assets/4c94440e-2aa1-4d68-bae9-a7ecab796b17)
 
 ### 📱 Mobile version  
-![Blog Preview Card - Mobile](https://github.com/user-attachments/assets/7c21c355-8044-424b-ba80-eff6c90394fa)
-
+<img src="https://github.com/user-attachments/assets/7c21c355-8044-424b-ba80-eff6c90394fa" alt="Blog Preview Card - Mobile" width="250"/>
 ---
 
 ## 🔗 Links
