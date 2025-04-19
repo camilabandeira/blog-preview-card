@@ -11,6 +11,7 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ### 📱 Mobile version  
 <img src="https://github.com/user-attachments/assets/7c21c355-8044-424b-ba80-eff6c90394fa" alt="Blog Preview Card - Mobile" width="250"/>
+
 ---
 
 ## 🔗 Links
